@@ -16,7 +16,7 @@ export const Navbar = () => {
         
             <Link href="/" className="flex items-center">
                 <HomeIcon className="mr-2"></HomeIcon>
-                Home
+                Homee
             </Link>
             
 
@@ -28,7 +28,7 @@ export const Navbar = () => {
                 ))
             }
 
-            <Link className="mr-2" href="/about">Aboutt</Link>
+            <Link className="mr-2" href="/about">Abouttt</Link>
             <Link className="mr-2" href="/pricing">Pricing</Link>
             <Link className="mr-2" href="/contact">Contact</Link>
         </nav>
